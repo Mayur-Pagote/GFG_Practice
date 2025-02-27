@@ -1,6 +1,5 @@
 class Solution:
 	def countOddEven(self, arr):
-		#Code here
 		odd = 0
 		even = 0
         for i in arr:
